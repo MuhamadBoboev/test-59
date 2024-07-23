@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "qwe",
+      "author": "qwe",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

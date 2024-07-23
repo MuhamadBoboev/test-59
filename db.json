@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": "fe18",
+      "comments": 0,
+      "likes": 0,
+      "views": 0,
+      "author": "1",
+      "title": "1"
+    },
+    {
+      "id": "04bb",
+      "comments": 23,
+      "likes": 23,
+      "views": 323,
+      "author": "21",
+      "title": "232"
+    }
+  ]
+}
