@@ -1,20 +1,52 @@
 {
   "posts": [
     {
-      "id": "fe18",
-      "comments": 0,
-      "likes": 0,
+      "title": "asdsdasd",
+      "author": "Boboev",
       "views": 0,
-      "author": "1",
-      "title": "1"
+      "likes": 0,
+      "comments": 0,
+      "id": 2
     },
     {
-      "id": "04bb",
-      "comments": 23,
-      "likes": 23,
-      "views": 323,
-      "author": "21",
-      "title": "232"
+      "title": "Boboev",
+      "author": "Boboev",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "id": 3
+    },
+    {
+      "title": "Boboev",
+      "author": "Boboev",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "id": 4
+    },
+    {
+      "title": "Boboev",
+      "author": "Boboev",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "id": 5
+    },
+    {
+      "title": "Boboev",
+      "author": "Boboev",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "id": 6
+    },
+    {
+      "title": "Boboev",
+      "author": "Boboev",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "id": 7
     }
   ]
 }
